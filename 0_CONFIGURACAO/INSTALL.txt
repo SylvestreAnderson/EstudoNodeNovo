@@ -4,3 +4,6 @@ npm install inquirer@8.1.2
 
 
 para atualizar os pacotes npx npm-check-updates -u
+
+
+app.engine('handlebars', exphbs.engine())
