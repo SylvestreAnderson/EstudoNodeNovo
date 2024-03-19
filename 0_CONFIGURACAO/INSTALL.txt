@@ -7,3 +7,5 @@ para atualizar os pacotes npx npm-check-updates -u
 
 
 app.engine('handlebars', exphbs.engine())
+
+senha do banco de dados: OvB5+J9xl0OVMLpqd4HdQw
